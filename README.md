@@ -1,1 +1,3 @@
-# CV-Proiecte
+# CV Proiecte
+-Aplicatie
+-Bomba
