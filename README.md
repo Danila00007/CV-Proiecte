@@ -1,5 +1,5 @@
 # CV Proiecte
 -Aplicatie
--Bomba
+#Bomba
 -Organe de masini
 -Practica
